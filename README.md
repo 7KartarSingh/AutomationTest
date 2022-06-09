@@ -15,3 +15,7 @@
 - git pull
 
 - git checkout branch-name
+
+- git config user.email "Email"
+
+- git config user.name "Username"
